@@ -1,10 +1,7 @@
-salut je suis alliance mefoctheu- 👋 Hi, I’m @Alliance6
-Je suis intéressé par le développement d'applications- 👀 I’m interested in ...
-j'étudie le génie logiciel- 🌱 I’m currently learning ...
-je cherche à collaborer sur la création de nouveaux logiciel - 💞️ I’m looking to collaborate on ...
-me joindre sur le numéro 658938704- 📫 How to reach me ...
+salut je suis alliance mefoctheu
+Je suis intéressé par le développement d'applications
+j'étudie le génie logiciel 
+je cherche à collaborer sur la création de nouveaux logiciel.
+me joindre sur le numéro 658938704
 
-<!---
-Alliance6/Alliance6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
